@@ -1,1 +1,6 @@
+
+
+check .env in server
+format must be like .envExample
+
 npm run dev 
